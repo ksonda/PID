@@ -1,5 +1,6 @@
 language: java
 jdk:
 #  - oraclejdk8 # disabled due to powermock not working
+# test
   - oraclejdk7
   - openjdk7
