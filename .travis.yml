@@ -4,3 +4,4 @@ jdk:
 # test
   - oraclejdk7
   - openjdk7
+dist: trusty
